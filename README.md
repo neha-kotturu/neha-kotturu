@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am an honors undergrad student at the University of Massachusetts Amherst, pursuing a major in Computer Science with a minor in Mathematics. I have strong interests in computational fields, including AI and machine learning, and aim to leverage my skills in critical thinking, problem-solving, and communication to make meaningful contributions to the tech industry.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/neha-kotturu/github-readme-stats)
+
+
 <!--
 **neha-kotturu/neha-kotturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
